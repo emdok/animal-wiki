@@ -1,0 +1,12 @@
+img {
+  display: block;
+  width: 40%;
+  margin: auto;
+  padding: 10px;
+}
+h1, h3, p {
+  text-align: center;
+}
+#turtles, #spiders, #insects, #none {
+  display: none;
+}
